@@ -1,0 +1,35 @@
+body{
+    background-color: darkblue;
+    color:white;
+}
+
+#titulo{
+    font-weight: bold;
+    text-align: center;
+}
+
+#banner{
+    font-weight: bold;
+    text-align: center;
+    color:black;
+}
+
+#cursos{
+    display: inline-block;
+    text-justify: auto;    
+}
+
+/*h2 {
+    margin-top: 1px;
+    padding: 4px;
+}*/
+
+p {
+    color: black;    
+}
+
+footer {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+}
